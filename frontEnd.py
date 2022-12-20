@@ -23,7 +23,7 @@ if add_selectbox=="Home":
   st.markdown("<h1 style='text-align: center; color: #FFFFFF;'>NHẬN DẠNG CHỮ SỐ</h1>", unsafe_allow_html=True)
   st.image("https://www.mathedup.co.uk/wp-content/uploads/2015/08/pay-819587_1920.jpg")
   st.text('''Thành viên nhóm thực hiện:
-                  1️⃣ Nguyễn Thanh Sang   20110710
+                  1️⃣ Nguyễn Thanh Sang  str 20110710
                   2️⃣ Lê Anh Kiệt         20110
                   3️⃣ Văn Bá Trung Thành  20110722
             Đề tài : Nhận dạng chữ số bằng thuật toán KNN và CNN
